@@ -8,8 +8,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-Certainly! Here's an updated version of the introduction with your information:
-
 🤖 &nbsp;I'm an Experienced Developer Analyst with an MSc in Robotics, specializing in Fullstack Development. My expertise spans across various technologies, including Python, SQL, R, and Flask. I have a proven track record of deploying secure web applications and optimizing network performance.
 
 🧠 &nbsp;My deep knowledge extends to machine learning, data visualization, and a proficiency in tools such as ROS (Robot Operating System), Git, SolidWorks, and AWS (Amazon Web Services). I'm well-versed in machine learning libraries like Scikit-Learn, TensorFlow, and Keras, allowing me to tackle complex problems with ease.

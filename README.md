@@ -1,4 +1,16 @@
+
+
+![M Dileep Kumar Banner](https://github.com/mdileepkumar438/mdileepkumar438/blob/main/assists/My%20Banner.png)
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Dileep</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Dileep -->
+
+
+
 <h1 align="center">Hi 👋, I'm M Dileep Kumar</h1>
+
+
 <h3 align="center">Passionate Roboticist | Explorer | Ambivert</h3>
 
 - 🔭 I’m currently working on **Exploring 3D Hand Tracking for Musical Interaction with Tabla**
